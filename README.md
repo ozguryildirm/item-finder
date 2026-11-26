@@ -14,7 +14,7 @@ Install the .NET 10 SDK. Open a terminal in the folder containing `ItemFinder.cs
 
 ```sh
 dotnet build
-dotnet run --no-build
+dotnet run
 ```
 
 Enter an item number and press Enter. With the included `Data.txt`, choose `2` for `Envelope Pack`. The last step should be `Check the filing cabinet.`
